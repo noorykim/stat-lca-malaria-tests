@@ -1,6 +1,12 @@
 # Assessing Concordance among Diagnostic Tests for Malaria using Latent Class Analysis 
 
-Presented 2013-04
+Presented 2013-04-23
+
+UNC-Chapel Hill 
+
+Final paper/presentation for BIOS 841 (Statistical Consulting)
+
+# Links
 
 [Slideshow presentation](presentation_v0401.pdf)
 
