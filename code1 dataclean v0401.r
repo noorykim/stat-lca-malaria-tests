@@ -1,7 +1,7 @@
 ## Mac
-setwd("/Users/tamarahowerton/Dropbox/2013A-spring/bios841/projects/project3/data")
+setwd("/Users/ ... /2013A-spring/bios841/projects/project3/data")
 ## Linux
-setwd("/home/nk/Dropbox/2013A-spring/bios841/projects/project3/data")
+setwd("/home/ ... /2013A-spring/bios841/projects/project3/data")
 
 ##############
 ##### d6a ####
