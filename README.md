@@ -6,7 +6,7 @@ UNC-Chapel Hill
 
 Final paper/presentation for BIOS 841 (Statistical Consulting)
 
-# Links
+# Files
 
 [Slideshow presentation](presentation_v0401.pdf)
 
