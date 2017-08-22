@@ -12,7 +12,7 @@ Final paper/presentation for BIOS 841 (Statistical Consulting)
 
 [Report](Report_v0401.pdf)
 
-[Letter of Recommendation, Dr. Steven Meshnick](Meshnick_reference_letter_2013.pdf)
+[Client Testimonial/Letter of Recommendation, Dr. Steven Meshnick](Meshnick_reference_letter_2013.pdf)
 
 
 #
